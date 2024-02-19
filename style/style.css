@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+}
+#container{
+    display: flex;
+    margin: 30px;
+    align-content: center;
+}
+
+#leftcon {
+    background-image: url(../image/pb-2-1.jpg);
+    height: 225px;
+    width: 360px;
+    margin-right: 50px;
+
+
+
+}
+
+#rightcon {
+    background-image: url(../image/pb-2-2.jpg);
+    height: 225px;
+    width: 560px;
+    
+
+}
